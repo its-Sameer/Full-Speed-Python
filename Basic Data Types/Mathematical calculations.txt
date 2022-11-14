@@ -17,3 +17,12 @@ The expected output:
 Suggestion: Check the Python library reference for more details!
 
 Play with the following code to print the expected output.
+
+
+/             Division                    Divides the number on the left with the number on the right
+
+//            Floor Division              Divides and returns the integer value of the quotient
+
+%             Modulus                     Divides and returns the value of the remainder
+
+**            Exponentiation              Raises the first number to the power of the second
